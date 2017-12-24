@@ -1,8 +1,8 @@
 {
-  "main.css": "react/static/css/main.91608f6d.css",
-  "main.css.map": "react/static/css/main.91608f6d.css.map",
-  "main.js": "react/static/js/main.21664109.js",
-  "main.js.map": "react/static/js/main.21664109.js.map",
+  "react\\main.css": "react/static/css/main.91608f6d.css",
+  "react\\main.css.map": "react/static/css/main.91608f6d.css.map",
+  "react\\main.js": "react/static/js/main.21664109.js",
+  "react\\main.js.map": "react/static/js/main.21664109.js.map",
   "react\\static\\media\\cd.png": "react/static/media/cd.669644cb.png",
   "react\\static\\media\\glyphicons-halflings-regular.eot": "react/static/media/glyphicons-halflings-regular.f4769f9b.eot",
   "react\\static\\media\\glyphicons-halflings-regular.svg": "react/static/media/glyphicons-halflings-regular.89889688.svg",
