@@ -1,14 +1,14 @@
 {
-  "main.css": "static/css/main.91608f6d.css",
-  "main.css.map": "static/css/main.91608f6d.css.map",
-  "main.js": "static/js/main.21664109.js",
-  "main.js.map": "static/js/main.21664109.js.map",
-  "static\\media\\cd.png": "static/media/cd.669644cb.png",
-  "static\\media\\glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
-  "static\\media\\glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
-  "static\\media\\glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static\\media\\glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static\\media\\glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg",
-  "static\\media\\myself.jpg": "static/media/myself.eec1e3ec.jpg"
+  "main.css": "react/static/css/main.91608f6d.css",
+  "main.css.map": "react/static/css/main.91608f6d.css.map",
+  "main.js": "react/static/js/main.21664109.js",
+  "main.js.map": "react/static/js/main.21664109.js.map",
+  "static\\media\\cd.png": "react/static/media/cd.669644cb.png",
+  "static\\media\\glyphicons-halflings-regular.eot": "react/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static\\media\\glyphicons-halflings-regular.svg": "react/static/media/glyphicons-halflings-regular.89889688.svg",
+  "static\\media\\glyphicons-halflings-regular.ttf": "react/static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+  "static\\media\\glyphicons-halflings-regular.woff": "react/static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static\\media\\glyphicons-halflings-regular.woff2": "react/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static\\media\\logo.svg": "react/static/media/logo.5d5d9eef.svg",
+  "static\\media\\myself.jpg": "react/static/media/myself.eec1e3ec.jpg"
 }
