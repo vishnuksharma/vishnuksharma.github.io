@@ -345,7 +345,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var HeaderComponent = (function () {
     function HeaderComponent(renderer) {
         this.renderer = renderer;
-        this.appLogo = '../assets/images/logo.png';
+        this.appLogo = 'assets/images/logo.png';
         this.isOpen = false;
         this.featureSelected = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* EventEmitter */]();
     }
