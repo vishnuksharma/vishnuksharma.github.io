@@ -134,7 +134,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/carousel/carousel.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"carousel-component\">\n  this\n</div>\n"
+module.exports = "<div class=\"carousel-component\">\r\n  this\r\n</div>\r\n"
 
 /***/ }),
 
