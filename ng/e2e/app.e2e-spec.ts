@@ -1,10 +1,10 @@
-import { VishnuksharmaPage } from './app.po';
+import { BasicAngular2Page } from './app.po';
 
-describe('vishnuksharma App', () => {
-  let page: VishnuksharmaPage;
+describe('basic-angular2 App', () => {
+  let page: BasicAngular2Page;
 
   beforeEach(() => {
-    page = new VishnuksharmaPage();
+    page = new BasicAngular2Page();
   });
 
   it('should display welcome message', () => {

@@ -10,7 +10,7 @@ import { Component,Directive,ViewChild, EventEmitter, Output, ElementRef, Render
 })
 export class HeaderComponent {
     appLogo = '../assets/images/logo.png';
-    @HostBinding('class.in') isOpen = false;
+    isOpen = false;
     toOpenDropdown: ElementRef;
 
     constructor(private renderer: Renderer2){}
@@ -28,10 +28,13 @@ export class HeaderComponent {
 
     @HostListener('click') toggleHeaderNav(){
         this.isOpen = !this.isOpen;
-        if(this.isOpen){
-             this.renderer.addClass(this.toOpenDropdown, 'in');
-        } else {
-             this.renderer.removeClass(this.toOpenDropdown, 'in')
+                
+        if(this.isOpen && this.toOpenDropdown){
+            this.renderer.addClass(this.toOpenDropdown, 'in');
+             
+        } else if (this.toOpenDropdown){
+            this.renderer.removeClass(this.toOpenDropdown, 'in')
+             
         }
     }
 

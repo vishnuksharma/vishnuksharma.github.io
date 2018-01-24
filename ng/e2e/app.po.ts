@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class VishnuksharmaPage {
+export class BasicAngular2Page {
   navigateTo() {
     return browser.get('/');
   }
