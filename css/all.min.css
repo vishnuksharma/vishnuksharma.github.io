@@ -102,6 +102,10 @@
 .fa-pulse {
   animation: fa-spin 1s infinite steps(8);
 }
+a.phone-icon i {
+  transform: rotate(90deg);
+  margin-right: 5px;
+}
 @keyframes fa-spin {
   0% {
     transform: rotate(0deg);
